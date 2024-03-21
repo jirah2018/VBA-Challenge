@@ -1,9 +1,20 @@
 # VBA-Challenge
 This assignment is to analyzed the stock Market for three years from 2018,2019 and 2020 by using VBA. 
-# Solution
--Ticker Symbol-Using loop through all stock year data for ticker symbol the script will sort ticker symbol in one column 'I" with a column header "Ticker". 
-- Yearly Change-The script will perform yearly change from opening price at the start of the year to the end of the year. The value will put in "J. The positive change
-  in green and the negative change in red where task code is added a conditional formatting.
--Percent change-  At column "K" script perform a change from opening price to the closing price at the end of the year
-- Total Stock Volume- Created at "L"
 
+***Objective***
+
+The main goal of this challenge is to develop a robust VBA script capable of iterating across for the three years Stock Market Analysis to compute and output critical 
+
+performance metrics. The script will systematically loop through each stock and gather the following information:
+
+-Ticker Symbol: Uniquely identifying each stock.
+
+-Yearly Change: The difference between the opening price at the year's commencement and the closing price at the year's end.
+
+-Percentage Change: This represents the yearly change as a percentage of the opening price.
+
+-Total Stock Volume: The sum of the traded volume for the stock throughout the year.
+
+-Also, the script will be equipped to identify key performers in the dataset by reporting stocks with the Greatest % Increase, Greatest % Decrease, and Greatest Total Volume. This will provide a snapshot of the most significant movements within the market over the course of the year.
+
+-To make sure comprehensive analysis, the script will be designed to run across multiple worksheets, which will allow for an analysis of data from different years in a single execution. This approach aims to provide a more holistic view of stock performance trends over time, enhancing the decision-making process for investors.
