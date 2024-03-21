@@ -1,3 +1,5 @@
+Note: The 2018,2019, 2020 Multiple Stock Data. I'm not able to upload because the file is large instead I take a screenshot of it. The VBA code is the same with the Alphabetical testing.
+
 # VBA-Challenge
 This assignment is to analyzed the stock Market for three years from 2018,2019 and 2020 by using VBA. 
 
